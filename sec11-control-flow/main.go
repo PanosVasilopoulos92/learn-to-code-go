@@ -60,7 +60,7 @@ func main() {
 	// 	return seconds
 	// }
 
-	// --------- switch statement ---------------- \\
+	// --------- switch statement ----------------- \\
 	switch {
 	case val1 < 12:
 		fmt.Println("Value is less than 12.")
