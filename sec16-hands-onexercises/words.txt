@@ -1,0 +1,13 @@
+
+"coconut", "pineapple", "kiwi", "watermelon", "muskmelon", "papaya", "guava", "apricot", "nectarine", "date",
+"coconut", "pineapple", "kiwi", "watermelon", "muskmelon", "papaya", "guava", "apricot", "nectarine", "date",
+"lemon", "lime", "orange", "grapefruit", "tangerine", "clementine", "pomelo", "mandarin", "satsuma", "kumquat",
+"lemon", "lime", "orange", "grapefruit", "tangerine", "clementine", "pomelo", "mandarin", "satsuma", "kumquat",
+"grape", "raspberry", "blackberry", "strawberry", "blueberry", "loganberry", "gooseberry", "boysenberry", "raspberry", "mulberry",
+"grape", "raspberry", "blackberry", "strawberry", "blueberry", "loganberry", "gooseberry", "boysenberry", "raspberry", "mulberry",
+"artichoke", "broccoli", "cauliflower", "cucumber", "zucchini", "bell pepper", "eggplant", "tomato", "carrot", "onion",
+"artichoke", "broccoli", "cauliflower", "cucumber", "zucchini", "bell pepper", "eggplant", "tomato", "carrot", "onion",
+"potato", "sweet potato", "yam", "radish", "turnip", "beetroot", "garlic", "ginger", "mushroom", "cabbage",
+"potato", "sweet potato", "yam", "radish", "turnip", "beetroot", "garlic", "ginger", "mushroom", "cabbage",
+"celery", "spinach", "lettuce", "cabbage", "kale", "collard greens", "arugula", "watercress", "endive", "mustard greens"
+"celery", "spinach", "lettuce", "cabbage", "kale", "collard greens", "arugula", "watercress", "endive", "mustard greens"
