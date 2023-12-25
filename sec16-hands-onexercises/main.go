@@ -57,7 +57,7 @@ func main() {
 	m := map[string]int{}
 	for _, v := range s1 {
 		word := v
-		m[word]++
+		m[word]++ // Every time it finds a same key-word, it just overwrites the corresponding value.
 	}
 
 	for k, v := range m {
