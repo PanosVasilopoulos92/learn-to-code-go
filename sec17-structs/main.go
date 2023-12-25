@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// When creating a struct it is best to write first the fields with the largest amount of bytes(float64,int64,int32...).
 type person struct {
 	firstname string
 	lastname  string

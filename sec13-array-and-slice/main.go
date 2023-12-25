@@ -14,6 +14,8 @@ func main() {
 	arr1[0] = 12
 	arr1[1] = 24
 	fmt.Println(arr1)
+	fmt.Printf("%T", arr1)
+	fmt.Println()
 
 	// array literal
 	arr2 := [4]int{1, 2, 3, 4}
