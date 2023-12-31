@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	// -------------- Arrays -------------------- \\
+	// -------------- Arrays ------------------- \\
 
 	// declare a variable of type []int (Array)
 	var arr1 [7]int

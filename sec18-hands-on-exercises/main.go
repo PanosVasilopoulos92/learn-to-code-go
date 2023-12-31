@@ -70,7 +70,7 @@ func main() {
 	fmt.Println()
 	fmt.Println("---------")
 
-	// Exercise 55:
+	// Exercise 55
 	vehicle1 := vehicle{
 		engine: engine{
 			electric: true,

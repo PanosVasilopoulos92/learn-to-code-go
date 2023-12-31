@@ -19,7 +19,7 @@ type job struct {
 	yearsOfExperience  int
 }
 
-type personAge int // creates a user-defined type, that is underlying the type 'int'.
+type personAge int // creates a user-defined type, that is underlying the type 'int'
 
 func main() {
 	person1 := person{
