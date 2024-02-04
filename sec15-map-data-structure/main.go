@@ -28,19 +28,19 @@ func main() {
 	fmt.Println()
 
 	// Creates a map with the use of make function:
-	fruitsToAmmountMap := make(map[string]int)
-	fmt.Println("Number of keys in the map:", len(fruitsToAmmountMap))
+	fruitsToAmountMap := make(map[string]int)
+	fmt.Println("Number of keys in the map:", len(fruitsToAmountMap))
 	// Adds element to the map
-	fruitsToAmmountMap["Oranges"] = 10
-	fruitsToAmmountMap["Apples"] = 12
-	fruitsToAmmountMap["Bananas"] = 5
-	fmt.Println("Number of keys in the map:", len(fruitsToAmmountMap))
-	fmt.Println(fruitsToAmmountMap)
+	fruitsToAmountMap["Oranges"] = 10
+	fruitsToAmountMap["Apples"] = 12
+	fruitsToAmountMap["Bananas"] = 5
+	fmt.Println("Number of keys in the map:", len(fruitsToAmountMap))
+	fmt.Println(fruitsToAmountMap)
 
 	// How I delete an element from a map
-	delete(fruitsToAmmountMap, "Bananas")
-	delete(fruitsToAmmountMap, "Apleeeees") // will not panic
-	fmt.Printf("Map after deletion: %#v\n", fruitsToAmmountMap)
+	delete(fruitsToAmountMap, "Bananas")
+	delete(fruitsToAmountMap, "Apleeeees") // will not panic
+	fmt.Printf("Map after deletion: %#v\n", fruitsToAmountMap)
 	fmt.Println()
 
 	// The right way to check if a key exists in the map, using "comma, ok" idiom.
@@ -52,7 +52,7 @@ func main() {
 	}
 	fmt.Println()
 
-	// The proper way for the above:
+	// Another way for the above:
 	if _, ok := nameToAgeMap["Aggeliki"]; !ok {
 		fmt.Println("Name 'Aggeliki' does not exist in the map.")
 	} else {
